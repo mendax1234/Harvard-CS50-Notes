@@ -1,2 +1,3 @@
-# Harvard-CS50-Notes
-My Learning Notes for Harvard CS50 in AY24
+# Welcome
+
+Welcome to my learning notes for [Harvard CS50](https://cs50.harvard.edu/x/2024/)!
